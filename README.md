@@ -25,10 +25,6 @@ npm install
 npm run dev
 ```
 
-#### Run With Visual Studio Live Server
-
-
-
 ## Author
 Thato Motaung
 
