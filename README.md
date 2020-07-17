@@ -1,9 +1,6 @@
 # Expense-Tracker
 Expense tracker app using MERN Stack
 
-# ThatoMotaung
-> Portfolio Website 
-
 ### Tech Used 
 * CSS
 * JavaScript
